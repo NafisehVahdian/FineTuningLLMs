@@ -1,0 +1,43 @@
+{"instruction": "What is 12 + 15?", "input": "", "output": "12 + 15 = 27. I add 10 to 12 to get 22, then add the remaining 5 to reach 27."}
+{"instruction": "What is 45 - 18?", "input": "", "output": "45 - 18 = 27. First subtract 20 (45 - 20 = 25), then add back 2 (25 + 2 = 27)."}
+{"instruction": "Multiply 7 by 6.", "input": "", "output": "7 * 6 = 42. I add 7 six times: 7 + 7 + 7 + 7 + 7 + 7 = 42."}
+{"instruction": "Divide 81 by 9.", "input": "", "output": "81 / 9 = 9. Because 9 times 9 equals 81."}
+{"instruction": "Explain what a square number is.", "input": "", "output": "A square number is a number made by multiplying a number by itself, like 4 = 2*2, 9 = 3*3, 16 = 4*4."}
+{"instruction": "Explain what an even number is.", "input": "", "output": "An even number is a number that can be divided by 2 without a remainder, like 2, 4, 6, 8."}
+{"instruction": "Is 17 a prime number?", "input": "", "output": "Yes. 17 is a prime number because its only divisors are 1 and 17."}
+
+{"instruction": "What is the area of a rectangle with width 5 and height 8?", "input": "", "output": "Area = width * height = 5 * 8 = 40 square units."}
+{"instruction": "Find the perimeter of a square with side length 6.", "input": "", "output": "Perimeter = 4 * side = 4 * 6 = 24 units."}
+{"instruction": "What is the area of a triangle with base 10 and height 4?", "input": "", "output": "Area = 1/2 * base * height = 1/2 * 10 * 4 = 20 square units."}
+
+{"instruction": "Convert 2 hours into minutes.", "input": "", "output": "1 hour is 60 minutes, so 2 hours = 2 * 60 = 120 minutes."}
+{"instruction": "Convert 150 centimeters into meters.", "input": "", "output": "100 cm = 1 m, so 150 cm = 1.5 meters."}
+{"instruction": "What is 30% of 200?", "input": "", "output": "30% of 200 = 0.30 * 200 = 60."}
+{"instruction": "What is the average of 10, 15, and 25?", "input": "", "output": "Average = (10 + 15 + 25) / 3 = 50 / 3 ≈ 16.67."}
+
+{"instruction": "A book costs 12 euros and a pen costs 3 euros. What is the total?", "input": "", "output": "12 + 3 = 15 euros total."}
+{"instruction": "You have 50 euros. You spend 18. How much is left?", "input": "", "output": "50 - 18 = 32 euros left."}
+{"instruction": "A train travels 60 km in 1 hour. How far in 3 hours?", "input": "", "output": "3 hours = 3 * 60 km = 180 km."}
+{"instruction": "A car uses 8 liters of fuel for 100 km. How much for 300 km?", "input": "", "output": "Fuel use scales linearly: 300 km is 3 times 100 km, so 8 * 3 = 24 liters."}
+
+{"instruction": "Explain gravity in simple words.", "input": "", "output": "Gravity is the force that pulls things toward each other. It makes objects fall toward the ground and keeps planets orbiting the sun."}
+{"instruction": "Explain what speed means.", "input": "", "output": "Speed tells us how fast something is moving. It is distance divided by time, like 60 km/h means 60 kilometers in one hour."}
+
+{"instruction": "Solve this: If x + 4 = 12, what is x?", "input": "", "output": "x = 12 - 4 = 8."}
+{"instruction": "Solve this: 3x = 21. What is x?", "input": "", "output": "x = 21 / 3 = 7."}
+{"instruction": "Solve: 2x + 6 = 20", "input": "", "output": "2x = 20 - 6 = 14, so x = 14 / 2 = 7."}
+
+{"instruction": "Explain what a variable is in math.", "input": "", "output": "A variable is a symbol, like x or y, that represents an unknown value we can solve for."}
+
+{"instruction": "What is 9 squared?", "input": "", "output": "9 squared means 9 * 9 = 81."}
+{"instruction": "What is the square root of 49?", "input": "", "output": "The square root of 49 is 7 because 7 * 7 = 49."}
+
+{"instruction": "Which number is bigger: 0.7 or 0.09?", "input": "", "output": "0.7 is bigger because seven tenths is more than nine hundredths."}
+{"instruction": "Which number is bigger: 3/4 or 2/3?", "input": "", "output": "3/4 ≈ 0.75, 2/3 ≈ 0.67, so 3/4 is bigger."}
+{"instruction": "Order the numbers 2.5, 1.2, 3.7 from smallest to largest.", "input": "", "output": "1.2, 2.5, 3.7."}
+
+{"instruction": "What comes next in the pattern: 3, 6, 9, 12, ...?", "input": "", "output": "The pattern adds 3 each time. After 12 comes 15."}
+{"instruction": "What is the next even number after 42?", "input": "", "output": "The next even number is 44."}
+
+{"instruction": "If a pizza is cut into 8 slices and you eat 3, how many are left?", "input": "", "output": "8 - 3 = 5 slices left."}
+{"instruction": "If a box has 24 candies and 6 children share them equally, how many candies per child?", "input": "", "output": "24 / 6 = 4 candies per child."}
